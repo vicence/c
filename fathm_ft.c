@@ -10,6 +10,6 @@ int main (void)				//带有参数的函数名
 	printf ("There are %d feet in %d fathoms!\n", feet, fathoms);	// 
 	printf ("Yes, I said %d feet!\n", 6 * fathoms);
 
-	return 0;		//带有返回值的C语言函数要使用一个return语句
+	return 0;			//带有返回值的C语言函数要使用一个return语句
 					//return语句是用来保持逻辑连贯性的所需的内容 
 }
